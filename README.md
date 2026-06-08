@@ -16,3 +16,13 @@ I'm a full-stack developer with a strong focus on programming and web applicatio
 - Email: [mixprog42@gmail.com](mailto:mixprog42@gmail.com)
 - Telegram: @mixfix42
 - [![LinkedIn](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubomyr-mashtaliar-63842a28a/)
+
+
+### 🚀 Highlighted Project
+
+### Highlighted Project
+*   **[Chat MVP Platform](https://github.com/TNTU-F2-Software-Engineering/Lubomyr-MASHTALIAR-SE201-2025-2026)** — secure real-time chat with E2E encryption.
+*   **Stack:** React, Django, PostgreSQL, TypeScript.
+
+*   **Chat MVP Platform** — secure real-time chat with E2E encryption.
+*   **Stack:** React, Django, PostgreSQL, TypeScript.
